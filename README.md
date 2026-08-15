@@ -3,6 +3,7 @@
 
 **Author:** Eleni Nolka  
 **Affiliation:** Department of Informatics and Telematics, Harokopio University of Athens  
+**Archived version (Zenodo):** https://doi.org/10.5281/zenodo.21947757
 **Hackathon:** OpenAIRE AI Hackathon 2026 - Theme A: Explore & Narrate  
 **Licence:** CC BY 4.0
 
